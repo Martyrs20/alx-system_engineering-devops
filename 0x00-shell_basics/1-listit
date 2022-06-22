@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /1-listit
+cat /root/alx-system_engineering-devops/0x00shell_basics/1-listit
